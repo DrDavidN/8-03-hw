@@ -7,6 +7,6 @@
 ![Скриншот настроек 3](https://github.com/DrDavidN/8-03-hw/blob/main/zadanie1_img/8-03%20zadanie%201%20settings%203.JPG)
 ![Скриншот настроек 4](https://github.com/DrDavidN/8-03-hw/blob/main/zadanie1_img/8-03%20zadanie%201%20settings%204.JPG)
 ![Скриншот сборки 1](https://github.com/DrDavidN/8-03-hw/blob/main/zadanie1_img/8-03%20zadanie%201%20build%201.JPG)
-![Скриншот сборки 2](https://github.com/DrDavidN/8-03-hw/blob/main/zadanie1_img/8-03%20zadanie%201%20build%202.JPG))
-![Скриншот сборки 3](https://github.com/DrDavidN/8-03-hw/blob/main/zadanie1_img/8-03%20zadanie%201%20build%203.JPG))
+![Скриншот сборки 2](https://github.com/DrDavidN/8-03-hw/blob/main/zadanie1_img/8-03%20zadanie%201%20build%202.JPG)
+![Скриншот сборки 3](https://github.com/DrDavidN/8-03-hw/blob/main/zadanie1_img/8-03%20zadanie%201%20build%203.JPG)
 
