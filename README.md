@@ -14,3 +14,20 @@
 ![Скриншот настроек 1](https://github.com/DrDavidN/8-03-hw/blob/main/img_zadanie2/8-03_zadanie_2_settings_1.JPG)
 ![Скриншот настроек 1](https://github.com/DrDavidN/8-03-hw/blob/main/img_zadanie2/8-03_zadanie_2_log_1.JPG)
 ![Скриншот настроек 1](https://github.com/DrDavidN/8-03-hw/blob/main/img_zadanie2/8-03_zadanie_2_log_2.JPG)
+
+## Задание 3.
+![Скриншот настроек 1](https://github.com/DrDavidN/8-03-hw/blob/main/img_zadanie3/8-03_zadanie_3_settings_1.JPG)
+![Скриншот настроек 1](https://github.com/DrDavidN/8-03-hw/blob/main/img_zadanie3/8-03_zadanie_3_settings_2.JPG)
+![Скриншот настроек 1](https://github.com/DrDavidN/8-03-hw/blob/main/img_zadanie3/8-03_zadanie_3_log_1.JPG)
+![Скриншот настроек 1](https://github.com/DrDavidN/8-03-hw/blob/main/img_zadanie3/8-03_zadanie_3_log_2.JPG)
+![Скриншот настроек 1](https://github.com/DrDavidN/8-03-hw/blob/main/img_zadanie3/8-03_zadanie_3_nexus.JPG)
+
+## Задание 4.
+![Скриншот настроек 1](https://github.com/DrDavidN/8-03-hw/blob/main/img_zadanie4/8-03_zadanie_4_settings_1.JPG)
+![Скриншот настроек 1](https://github.com/DrDavidN/8-03-hw/blob/main/img_zadanie4/8-03_zadanie_4_settings_2.JPG)
+![Скриншот настроек 1](https://github.com/DrDavidN/8-03-hw/blob/main/img_zadanie4/8-03_zadanie_4_log_1.JPG)
+![Скриншот настроек 1](https://github.com/DrDavidN/8-03-hw/blob/main/img_zadanie4/8-03_zadanie_4_log_2.JPG)
+![Скриншот настроек 1](https://github.com/DrDavidN/8-03-hw/blob/main/img_zadanie4/8-03_zadanie_4_nexus.JPG)
+
+
+
